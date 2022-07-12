@@ -1,0 +1,31 @@
+<VAST xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.0" xsi:noNamespaceSchemaLocation="https:vast3.xsd">
+    <Ad id="avs9126">
+        <InLine>
+            <AdSystem version="3.0" />
+            <AdTitle>SpinBetter</AdTitle>
+            <Error>
+                <![CDATA[ https://vast3.videocdn.tv/code/video-steam-event/?act=error&ad=8t6&pl=fp ]]>
+            </Error>
+            <Impression id="ivs8t6">
+                <![CDATA[ https://vast3.videocdn.tv/code/video-steam-event/?act=show&i=UA151580&ad=8t6&pl=fp&t=1hcotd5&hc=959bccc949b9&ihc=vast3videocdntv-10hkgay-3a862e10db52&channel1=host ]]>
+            </Impression>
+            <Creatives>
+                <Creative>
+                    <Linear skipoffset="00:00:15">
+                        <Duration>00:00:15.10</Duration>
+                        <VideoClicks>
+                            <ClickThrough>
+                                <![CDATA[ https://welcomelanding.site/8y4NKQ ]]>
+                            </ClickThrough>
+                        </VideoClicks>
+                        <MediaFiles>
+                            <MediaFile id="vs8t6" bitrate="2156" delivery="progressive" height="360" maintainAspectRatio="true" scalable="true" type="video/mp4" width="640">
+                                <![CDATA[ https://filmozavr-hd.com/player/vast/vast_new.mp4 ]]>
+                            </MediaFile>
+                        </MediaFiles>
+                    </Linear>
+                </Creative>
+            </Creatives>
+        </InLine>
+    </Ad>
+</VAST> 
