@@ -3,6 +3,12 @@
         <InLine>
             <AdSystem version="3.0" />
             <AdTitle>SpinBetter</AdTitle>
+            <Impression id="exotr">
+                <![CDATA[https://filmozavr.com/player/stats.php?embed=1&device_type=1&event=VideoPlay]]>
+            </Impression>
+            <Error>
+                <![CDATA[https://filmozavr.com/player/stats.php?embed=1&device_type=1&event=VideoPause]]>
+            </Error>
             <Creatives>
                 <Creative>
                     <Linear skipoffset="00:00:15">
