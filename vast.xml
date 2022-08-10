@@ -1,5 +1,5 @@
 <VAST xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.0" xsi:noNamespaceSchemaLocation="https:vast3.xsd">
-    <Ad id="avs9126">
+    <Ad id="avs9126" sequence="1">
         <InLine>
             <AdSystem version="3.0" />
             <AdTitle>SpinBetter</AdTitle>
@@ -21,6 +21,36 @@
                         <MediaFiles>
                             <MediaFile id="vs8t6" bitrate="2156" delivery="progressive" height="360" maintainAspectRatio="true" scalable="true" type="video/mp4" width="640">
                                 <![CDATA[ https://filmozavr-hd.com/player/vast/vast_spinbetter.mp4 ]]>
+                            </MediaFile>
+                        </MediaFiles>
+                    </Linear>
+                </Creative>
+            </Creatives>
+        </InLine>
+    </Ad>
+
+    <Ad id="avs9126" sequence="2">
+        <InLine>
+            <AdSystem version="3.0" />
+            <AdTitle>SpinBetter</AdTitle>
+            <Impression id="exotr">
+                <![CDATA[https://filmozavr.com/player/stats.php?embed=1&device_type=1&event=VideoPlay]]>
+            </Impression>
+            <Error>
+                <![CDATA[https://filmozavr.com/player/stats.php?embed=1&device_type=1&event=VideoPause]]>
+            </Error>
+            <Creatives>
+                <Creative>
+                    <Linear skipoffset="00:00:05">
+                        <Duration>00:00:15.10</Duration>
+                        <VideoClicks>
+                            <ClickThrough>
+                                <![CDATA[ https://welcomelanding.site/tbXDSV ]]>
+                            </ClickThrough>
+                        </VideoClicks>
+                        <MediaFiles>
+                            <MediaFile id="vs8t6" bitrate="2156" delivery="progressive" height="360" maintainAspectRatio="true" scalable="true" type="video/mp4" width="640">
+                                <![CDATA[ https://filmozavr-hd.com/player/vast/vast_betting.mp4 ]]>
                             </MediaFile>
                         </MediaFiles>
                     </Linear>
